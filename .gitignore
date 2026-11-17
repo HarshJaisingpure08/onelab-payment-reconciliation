@@ -7,3 +7,7 @@ env/
 venv/
 *.zip
 .DS_Store
+full_session_transcript.md
+chat_transcript.md
+*.transcript.md
+
